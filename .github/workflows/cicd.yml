@@ -1,0 +1,34 @@
+name: .NET 10 CI Pipeline
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Pull down your repository code into the virtual GitHub environment
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    # 2. Setup the official Microsoft .NET SDK engine on the runner (Configured for .NET 10)
+    - name: Setup .NET SDK
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '10.x'
+
+    # 3. Restore all required external NuGet dependencies using your slnx file map
+    - name: Restore Dependencies
+      run: dotnet restore PortfolioSolution.slnx
+
+    # 4. Compile the entire solution assembly tree (Release mode)
+    - name: Build Application
+      run: dotnet build PortfolioSolution.slnx --no-restore --configuration Release
+
+    # 5. Run your automated xUnit test suites
+    - name: Run Automated Tests
+      run: dotnet test PortfolioSolution.slnx --no-build --verbosity normal
