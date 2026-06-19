@@ -23,12 +23,12 @@ jobs:
 
     # 3. Restore all required external NuGet dependencies using your slnx file map
     - name: Restore Dependencies
-      run: dotnet restore PortfolioSolution.slnx
+      run: dotnet restore
 
     # 4. Compile the entire solution assembly tree (Release mode)
     - name: Build Application
-      run: dotnet build PortfolioSolution.slnx --no-restore --configuration Release
+      run: dotnet build --no-restore --configuration Release
 
     # 5. Run your automated xUnit test suites
     - name: Run Automated Tests
-      run: dotnet test PortfolioSolution.slnx --no-build --verbosity normal
+      run: dotnet test --no-build --verbosity normal
