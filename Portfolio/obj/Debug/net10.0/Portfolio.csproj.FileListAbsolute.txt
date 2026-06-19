@@ -98,7 +98,6 @@ C:\Users\breel\source\repos\Portfolio\Portfolio\obj\Debug\net10.0\Portfolio.genr
 C:\Users\breel\source\repos\Portfolio\Portfolio\obj\Debug\net10.0\ref\Portfolio.dll
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\bin\Debug\net10.0\appsettings.Development.json
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\bin\Debug\net10.0\appsettings.json
-C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\bin\Debug\net10.0\Portfolio.Tests\Properties\launchSettings.json
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\bin\Debug\net10.0\Portfolio.staticwebassets.runtime.json
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\bin\Debug\net10.0\Portfolio.staticwebassets.endpoints.json
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\bin\Debug\net10.0\Portfolio.exe
