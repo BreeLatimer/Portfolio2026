@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Portfolio",
-    "\\Portfolio\\bin\\Debug",
-    "\\Portfolio\\Controllers"
+    "\\Portfolio"
   ],
-  "SelectedNode": "\\Portfolio\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\Portfolio\\PortfolioSolution.slnx",
   "PreviewInSolutionExplorer": false
 }

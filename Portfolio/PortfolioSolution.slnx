@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Portfolio.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="../Portfolio.Tests/Portfolio.Tests.csproj" Id="a8b90530-8b9b-4434-aba5-df1829306e55" />
+  </Folder>
+</Solution>
