@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Portfolio"
+    "\\Portfolio",
+    "\\Portfolio.Tests"
   ],
   "SelectedNode": "\\Portfolio\\PortfolioSolution.slnx",
   "PreviewInSolutionExplorer": false

@@ -120,7 +120,6 @@ C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\obj\Debug\net1
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\obj\Debug\net10.0\scopedcss\bundle\Portfolio.styles.css
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\obj\Debug\net10.0\scopedcss\projectbundle\Portfolio.bundle.scp.css
-C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\obj\Debug\net10.0\compressed\8mfu681els-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\obj\Debug\net10.0\compressed\7u0i9x6hv8-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\obj\Debug\net10.0\compressed\1y9vpx44du-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\obj\Debug\net10.0\compressed\fkmehnfzni-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -195,3 +194,4 @@ C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\obj\Debug\net1
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\obj\Debug\net10.0\Portfolio.pdb
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\obj\Debug\net10.0\Portfolio.genruntimeconfig.cache
 C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\obj\Debug\net10.0\ref\Portfolio.dll
+C:\Users\breel\OneDrive\Personal Projects\Portfolio2026\Portfolio\obj\Debug\net10.0\compressed\8mfu681els-{0}-5dcfmpkaoe-5dcfmpkaoe.gz

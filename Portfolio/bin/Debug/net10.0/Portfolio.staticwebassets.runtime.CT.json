@@ -52,7 +52,7 @@
             "Children": null,
             "Asset": {
               "ContentRootIndex": 1,
-              "SubPath": "8mfu681els-{0}-b9sayid5wm-b9sayid5wm.gz"
+              "SubPath": "8mfu681els-{0}-5dcfmpkaoe-5dcfmpkaoe.gz"
             },
             "Patterns": null
           }
@@ -67,6 +67,20 @@
             "Asset": {
               "ContentRootIndex": 0,
               "SubPath": "documents/BreeLatimerWaystarResume.pdf"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
+      "images": {
+        "Children": {
+          "me.jpg": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "images/me.jpg"
             },
             "Patterns": null
           }
