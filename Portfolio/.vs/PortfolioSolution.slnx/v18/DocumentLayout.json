@@ -3,22 +3,33 @@
   "WorkspaceRootPath": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|c:\\users\\breel\\onedrive\\personal projects\\portfolio2026\\portfolio\\portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|solutionrelative:portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|c:\\users\\breel\\onedrive\\personal projects\\portfolio2026\\portfolio\\views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|solutionrelative:views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|c:\\users\\breel\\onedrive\\personal projects\\portfolio2026\\portfolio\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|solutionrelative:controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|c:\\users\\breel\\onedrive\\personal projects\\portfolio2026\\portfolio\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B90530-8B9B-4434-ABA5-DF1829306E55}|..\\Portfolio.Tests\\Portfolio.Tests.csproj|c:\\users\\breel\\onedrive\\personal projects\\portfolio2026\\portfolio.tests\\resumecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8B90530-8B9B-4434-ABA5-DF1829306E55}|..\\Portfolio.Tests\\Portfolio.Tests.csproj|c:\\users\\breel\\onedrive\\personal projects\\portfolio2026\\portfolio.tests\\aboutcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8B90530-8B9B-4434-ABA5-DF1829306E55}|..\\Portfolio.Tests\\Portfolio.Tests.csproj|c:\\users\\breel\\onedrive\\personal projects\\portfolio2026\\portfolio.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|c:\\users\\breel\\onedrive\\personal projects\\portfolio2026\\portfolio\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|solutionrelative:views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|c:\\users\\breel\\onedrive\\personal projects\\portfolio2026\\portfolio\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|solutionrelative:controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|c:\\users\\breel\\onedrive\\personal projects\\portfolio2026\\portfolio\\portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D22C5090-2E42-7CF5-DFCE-2717F9F4F06F}|Portfolio.csproj|solutionrelative:portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B90530-8B9B-4434-ABA5-DF1829306E55}|..\\Portfolio.Tests\\Portfolio.Tests.csproj|c:\\users\\breel\\onedrive\\personal projects\\portfolio2026\\portfolio.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8B90530-8B9B-4434-ABA5-DF1829306E55}|..\\Portfolio.Tests\\Portfolio.Tests.csproj|c:\\users\\breel\\onedrive\\personal projects\\portfolio2026\\portfolio.tests\\portfolio.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -31,12 +42,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResumeController.cs",
+              "DocumentMoniker": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio\\Controllers\\ResumeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ResumeController.cs",
+              "ToolTip": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio\\Controllers\\ResumeController.cs",
+              "RelativeToolTip": "Controllers\\ResumeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T18:33:57.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResumeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio.Tests\\ResumeControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\Portfolio.Tests\\ResumeControllerTests.cs",
+              "ToolTip": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio.Tests\\ResumeControllerTests.cs",
+              "RelativeToolTip": "..\\Portfolio.Tests\\ResumeControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T18:33:00.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Portfolio",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio\\Views\\Resume\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Resume\\Index.cshtml",
+              "ToolTip": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio\\Views\\Resume\\Index.cshtml",
+              "RelativeToolTip": "Views\\Resume\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-19T18:30:42.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Portfolio.csproj",
               "DocumentMoniker": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio\\Portfolio.csproj",
               "RelativeDocumentMoniker": "Portfolio.csproj",
               "ToolTip": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio\\Portfolio.csproj",
@@ -48,47 +98,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\About\\Index.cshtml",
               "ToolTip": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio\\Views\\About\\Index.cshtml",
               "RelativeToolTip": "Views\\About\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-19T18:16:23.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "Controllers\\AboutController.cs",
               "ToolTip": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio\\Controllers\\AboutController.cs",
               "RelativeToolTip": "Controllers\\AboutController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T18:13:58.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AboutControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio.Tests\\AboutControllerTests.cs",
               "RelativeDocumentMoniker": "..\\Portfolio.Tests\\AboutControllerTests.cs",
               "ToolTip": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio.Tests\\AboutControllerTests.cs",
               "RelativeToolTip": "..\\Portfolio.Tests\\AboutControllerTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T18:12:47.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Portfolio.Tests",
+              "DocumentIndex": 8,
+              "Title": "Portfolio.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio.Tests\\Portfolio.Tests.csproj",
               "RelativeDocumentMoniker": "..\\Portfolio.Tests\\Portfolio.Tests.csproj",
               "ToolTip": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio.Tests\\Portfolio.Tests.csproj",
@@ -100,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "HomeControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio.Tests\\HomeControllerTests.cs",
               "RelativeDocumentMoniker": "..\\Portfolio.Tests\\HomeControllerTests.cs",
@@ -108,8 +158,7 @@
               "RelativeToolTip": "..\\Portfolio.Tests\\HomeControllerTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T16:49:28.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T16:49:28.589Z"
             }
           ]
         }

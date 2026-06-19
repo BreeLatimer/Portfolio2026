@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Resume";
+
+    <script>
+        window.getWindowDimensions = function () {
+            return {
+                width: window.innerWidth,
+                height: window.innerHeight
+            };
+        };
+    </script>
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <embed src="~/documents/BreeLatimerWaystarResume.pdf" type="application/pdf" width="2550" height="3300" />
+    </div>
+</div>

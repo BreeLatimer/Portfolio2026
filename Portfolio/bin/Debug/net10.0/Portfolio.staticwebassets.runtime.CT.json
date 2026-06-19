@@ -60,6 +60,20 @@
         "Asset": null,
         "Patterns": null
       },
+      "documents": {
+        "Children": {
+          "BreeLatimerWaystarResume.pdf": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "documents/BreeLatimerWaystarResume.pdf"
+            },
+            "Patterns": null
+          }
+        },
+        "Asset": null,
+        "Patterns": null
+      },
       "js": {
         "Children": {
           "site.js": {
