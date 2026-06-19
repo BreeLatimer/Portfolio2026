@@ -31,4 +31,4 @@ jobs:
 
     # 5. Run your automated xUnit test suites
     - name: Run Automated Tests
-      run: dotnet test Portfolio/PortfolioSolution.slnx --no-build --verbosity normal
+      run: dotnet test Portfolio/PortfolioSolution.slnx --no-build --configuration Release --verbosity normal

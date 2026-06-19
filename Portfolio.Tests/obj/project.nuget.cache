@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FzQ95dkg8aw=",
+  "dgSpecHash": "/T3GZoAXEzY=",
   "success": true,
   "projectFilePath": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio.Tests\\Portfolio.Tests.csproj",
   "expectedPackageFiles": [
@@ -86,7 +86,7 @@
     "C:\\Users\\breel\\.nuget\\packages\\nunit.analyzers\\4.14.0\\nunit.analyzers.4.14.0.nupkg.sha512",
     "C:\\Users\\breel\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\breel\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
-    "C:\\Users\\breel\\.nuget\\packages\\system.security.cryptography.xml\\8.0.2\\system.security.cryptography.xml.8.0.2.nupkg.sha512",
+    "C:\\Users\\breel\\.nuget\\packages\\system.security.cryptography.xml\\8.0.3\\system.security.cryptography.xml.8.0.3.nupkg.sha512",
     "C:\\Users\\breel\\.nuget\\packages\\xunit.analyzers\\1.27.0\\xunit.analyzers.1.27.0.nupkg.sha512",
     "C:\\Users\\breel\\.nuget\\packages\\xunit.runner.visualstudio\\3.1.5\\xunit.runner.visualstudio.3.1.5.nupkg.sha512",
     "C:\\Users\\breel\\.nuget\\packages\\xunit.v3\\3.2.2\\xunit.v3.3.2.2.nupkg.sha512",
@@ -98,30 +98,5 @@
     "C:\\Users\\breel\\.nuget\\packages\\xunit.v3.runner.common\\3.2.2\\xunit.v3.runner.common.3.2.2.nupkg.sha512",
     "C:\\Users\\breel\\.nuget\\packages\\xunit.v3.runner.inproc.console\\3.2.2\\xunit.v3.runner.inproc.console.3.2.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-37gx-xxp4-5rgx",
-      "projectPath": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio.Tests\\Portfolio.Tests.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio.Tests\\Portfolio.Tests.csproj",
-      "libraryId": "System.Security.Cryptography.Xml",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    },
-    {
-      "code": "NU1903",
-      "level": "Warning",
-      "message": "Package 'System.Security.Cryptography.Xml' 8.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-w3x6-4m5h-cxqf",
-      "projectPath": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio.Tests\\Portfolio.Tests.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\breel\\OneDrive\\Personal Projects\\Portfolio2026\\Portfolio.Tests\\Portfolio.Tests.csproj",
-      "libraryId": "System.Security.Cryptography.Xml",
-      "targetGraphs": [
-        "net10.0"
-      ]
-    }
-  ]
+  "logs": []
 }
